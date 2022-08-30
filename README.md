@@ -12,7 +12,7 @@ ViewModel <dt>
 LiveData <dt>
 Glide <dt>
 Data Binding <dt>
-Hilt <dt>
+Dependency Injection(Hilt) <dt>
 Kotlin Coroutines
 
 ## Main Page
